@@ -1,5 +1,5 @@
 datacenter = "lab"
-data_dir = "/var/lib/consul"
+data_dir = "/opt/consul"
 client_addr = "127.0.0.1 {{GetPrivateIP}}"
 bind_addr = "{{GetPrivateIP}}"
 
