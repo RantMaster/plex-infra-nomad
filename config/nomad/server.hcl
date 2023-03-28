@@ -1,6 +1,6 @@
 region = "global"
 datacenter = "lab"
-data_dir = "/var/lib/nomad/data"
+data_dir = "/opt/nomad/data"
 bind_addr = "0.0.0.0"
 
 consul {
